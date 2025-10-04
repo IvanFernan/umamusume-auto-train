@@ -1,4 +1,5 @@
 import pyautogui
+import time
 from utils.tools import sleep, get_secs, drag_scroll
 from PIL import ImageGrab
 
@@ -6,7 +7,7 @@ pyautogui.useImageNotFoundException(False)
 
 import re
 import core.state as state
-from core.state import check_support_card, check_failure, check_turn, check_mood, check_current_year, check_criteria, check_skill_pts, check_energy_level, get_race_type, check_status_effects, check_aptitudes
+from core.state import check_support_card, check_failure, check_turn, check_mood, check_current_year, check_criteria, check_skill_pts, check_energy_level, get_race_type, check_status_effects, check_aptitudes, get_event_name, check_credit
 from core.logic import do_something, decide_race_for_goal
 
 from utils.log import info, warning, error, debug
@@ -15,6 +16,7 @@ import utils.constants as constants
 from core.recognizer import is_btn_active, match_template, multi_match_templates
 from utils.scenario import ura
 from core.skill import buy_skill
+from core.events import get_optimal_choice
 
 templates = {
   "event": "assets/icons/event_choice_1.png",
@@ -24,7 +26,9 @@ templates = {
   "cancel": "assets/buttons/cancel_btn.png",
   "tazuna": "assets/ui/tazuna_hint.png",
   "infirmary": "assets/buttons/infirmary_btn.png",
-  "retry": "assets/buttons/retry_btn.png"
+  "retry": "assets/buttons/retry_btn.png",
+  "claw_credit": "assets/buttons/claw_credit.png",
+  "claw_result": "assets/buttons/claw_result.png"
 }
 
 training_types = {
@@ -34,6 +38,21 @@ training_types = {
   "guts": "assets/icons/train_guts.png",
   "wit": "assets/icons/train_wit.png"
 }
+
+def click_and_hold(img: str = None, confidence: float = 0.8, minSearch:float = 2, text: str = "", duration_ms = 1000):
+  # Click and hold for duration in milliseconds.
+  if img is None:
+    return False
+
+  btn = pyautogui.locateCenterOnScreen(img, confidence=confidence, minSearchTime=minSearch)
+  if btn:
+    if text:
+      debug(text)
+    pyautogui.moveTo(btn, duration=0.225)
+    pyautogui.mouseDown(btn)
+    time.sleep(duration_ms / 1000)
+    pyautogui.mouseUp(btn)
+
 
 def click(img: str = None, confidence: float = 0.8, minSearch:float = 2, click: int = 1, text: str = "", boxes = None, region=None):
   if state.stop_event.is_set():
@@ -155,6 +174,12 @@ def do_recreation():
 
   if recreation_btn:
     click(boxes=recreation_btn)
+    sleep(1)
+
+    aoi_event = pyautogui.locateCenterOnScreen("assets/ui/aoi_event.png", confidence=0.8)
+    if aoi_event:
+      pyautogui.moveTo(aoi_event, duration=0.15)
+      pyautogui.click(aoi_event)
   elif recreation_summer_btn:
     click(boxes=recreation_summer_btn)
 
@@ -183,6 +208,35 @@ def do_race(prioritize_g1 = False, img = None):
   sleep(1)
   after_race()
   return True
+
+def event_choice():
+  event_choice_1 = pyautogui.locateCenterOnScreen("assets/icons/event_choice_1.png", confidence=0.8, minSearchTime=0.2)
+
+  if not event_choice_1:
+    return False
+  
+  if not state.USE_OPTIMAL_EVENT_CHOICES:
+    print("[INFO] Event found, automatically select top choice.")
+    pyautogui.moveTo(event_choice_1, duration=0.2)
+    pyautogui.click(event_choice_1)
+    return True
+  
+  event_name = get_event_name()
+
+  if event_name:
+    total_choices, choice = get_optimal_choice(event_name)
+    
+    if not total_choices:
+      pyautogui.moveTo(event_choice_1, duration=0.2)
+      pyautogui.click(event_choice_1)
+      return True
+    
+    print(f"[INFO] Selecting optimal choice: {choice}")
+    pyautogui.moveTo(300, 750 - 111 * (total_choices - choice), duration=0.175)
+    pyautogui.click()
+    return True
+  
+  return False
 
 def race_day():
   if state.stop_event.is_set():
@@ -375,7 +429,7 @@ def career_lobby():
     screen = ImageGrab.grab()
     matches = multi_match_templates(templates, screen=screen)
 
-    if click(boxes=matches["event"], text="Event found, selecting top choice."):
+    if event_choice():
       continue
     if click(boxes=matches["inspiration"], text="Inspiration found."):
       continue
@@ -386,6 +440,23 @@ def career_lobby():
     if click(boxes=matches["cancel"]):
       continue
     if click(boxes=matches["retry"]):
+      continue
+    if matches["claw_credit"]:
+      credits = check_credit()
+      if credits == "CREDIT 3":
+        click_and_hold(img="assets/buttons/claw_btn.png", text="Claw Machine found.", duration_ms=1400)
+        sleep(5)
+        continue
+      if credits == "CREDIT 2":
+        click_and_hold(img="assets/buttons/claw_btn.png", text="Claw Machine found.", duration_ms=900)
+        sleep(5)
+        continue
+      if credits == "CREDIT 1":
+        click_and_hold(img="assets/buttons/claw_btn.png", text="Claw Machine found.", duration_ms=500)
+        sleep(5)
+        continue
+    if matches["claw_result"]:
+      click(img="assets/buttons/ok_2_btn.png", minSearch=get_secs(0.7))
       continue
 
     if not matches["tazuna"]:
