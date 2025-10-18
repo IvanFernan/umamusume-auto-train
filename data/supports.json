@@ -1,0 +1,2073 @@
+{
+    "30045": {
+        "name": "Sweep Tosho",
+        "rarity": "SSR",
+        "image_file": "Sweep_Tosho_30045.png",
+        "(❯) Fickle Genius Magical Girl Sweepy ☆": [
+            "Randomly either: Mood +1, Straightaway Spurt hint +2, Sweep Tosho bond +5 or Mood -1, Wit +5, Sweep Tosho bond +5",
+            "Skill points +15, Sweep Tosho bond +5"
+        ],
+        "(❯❯) A Drop of Black Magic ☆": [
+            "Randomly either: Energy +10, Skill points +20, Sweep Tosho bond +5 or Energy -10, Skill points +15, Sweep Tosho bond +5",
+            "Wit +10, Sweep Tosho bond +5"
+        ],
+        "Miracle ☆ Escape!": [
+            "Energy +10, Speed +5, Sweep Tosho bond +5",
+            "Energy -10, Speed +20, Sweep Tosho bond +5"
+        ],
+        "Wonderful ☆ Mistake!": [
+            "Randomly either: Energy -15, Skill points +40 or Energy -20, Skill points +40, Sweep Tosho bond +5",
+            "Get Charming ○ status, Sweep Tosho bond +5"
+        ]
+    },
+    "30046": {
+        "name": "Winning Ticket",
+        "rarity": "SSR",
+        "image_file": "Winning_Ticket_30046.png",
+        "(❯❯) Tickezo☆Friendship!": [
+            "Stamina +3, Guts +3, 1,500,000 CC hint +1, Winning Ticket bond +10",
+            "Energy +10, Maverick ○ hint +3, Winning Ticket bond -5, Event chain ended"
+        ],
+        "Full-Power Muscles!": [
+            "Stamina +5, Skill points +15, Winning Ticket bond +5",
+            "Mood +1, Skill points +15, Winning Ticket bond +5"
+        ],
+        "Full-Power Racing!": [
+            "Late Surger Corners ○ hint +1, Winning Ticket bond +5",
+            "Skill points +30, Winning Ticket bond +5"
+        ]
+    },
+    "30047": {
+        "name": "Daiwa Scarlet",
+        "rarity": "SSR",
+        "image_file": "Daiwa_Scarlet_30047.png",
+        "(❯) Number One Reactions?": [
+            "Speed +3, Power +3, Wit +3, Daiwa Scarlet bond +5",
+            "Energy +15, Event chain ended"
+        ],
+        "I'm Going to Win Tomorrow!": [
+            "Wit +10, Daiwa Scarlet bond +5",
+            "Mood +1, Skill points +15, Daiwa Scarlet bond +5"
+        ],
+        "This Is Nothing!": [
+            "Stamina to Spare hint +1, Daiwa Scarlet bond +5",
+            "Energy +20, Mood +1, Daiwa Scarlet bond +5"
+        ]
+    },
+    "30044": {
+        "name": "Narita Brian",
+        "rarity": "SSR",
+        "image_file": "Narita_Brian_30044.png",
+        "Student Council Member!": [
+            "Mood +1, Speed +5, Narita Brian bond +5",
+            "Maximum Energy +4, Narita Brian bond +5"
+        ],
+        "Lone Wolf": [
+            "Speed +3, Stamina +3, Power +3, Narita Brian bond +5",
+            "Lone Wolf hint +1, Narita Brian bond +5"
+        ]
+    },
+    "30048": {
+        "name": "Mejiro Ryan",
+        "rarity": "SSR",
+        "image_file": "Mejiro_Ryan_30048.png",
+        "(❯) Flustered Afternoon Tea!": [
+            "Energy +10, Mood +1",
+            "Wit +10, Skill points +15, Pace Chaser Savvy ○ hint +3"
+        ],
+        "My Muscles and Me, Onward to Tomorrow!": [
+            "Energy -10, Power +15, Mejiro Ryan bond +5",
+            "Maximum Energy +4, Power +5, Mejiro Ryan bond +5"
+        ],
+        "It's Not Like I Like Romance!": [
+            "Pace Strategy hint +1, Mejiro Ryan bond +5",
+            "Energy +30, Mejiro Ryan bond +5"
+        ]
+    },
+    "30055": {
+        "name": "Seiun Sky",
+        "rarity": "SSR",
+        "image_file": "Seiun_Sky_30055.png",
+        "(❯) Sudden Murder Mystery! Part 1": [
+            "Wit +5, Skill points +10, Seiun Sky bond +5",
+            "Energy +10, Seiun Sky bond +5"
+        ],
+        "(❯❯) Sudden Murder Mystery! Part 2": [
+            "Wit +5, Frenzied Pace Chasers hint +1, Seiun Sky bond +5",
+            "Energy +5, Skill points +10, Seiun Sky bond +5"
+        ],
+        "(❯❯❯) Sudden Murder Mystery! Part 3": [
+            "Wit +5/+10, Vanguard Spirit hint +1/+3, Seiun Sky bond +5",
+            "Energy +10, Stamina +10, Skill points +15"
+        ],
+        "Recruiting Cat Catchers": [
+            "Energy +10, Wit +5, Seiun Sky bond +5",
+            "Energy -10, Speed +15, Stamina +5, Seiun Sky bond +5"
+        ],
+        "Recruiting Advisors": [
+            "Wit +15, Seiun Sky bond +5",
+            "Keeping the Lead hint +1, Seiun Sky bond +5"
+        ]
+    },
+    "30056": {
+        "name": "King Halo",
+        "rarity": "SSR",
+        "image_file": "King_Halo_30056.png",
+        "(❯) A Captivating Invitation": [
+            "Power +10, King Halo bond +5",
+            "Guts +10, King Halo bond +5"
+        ],
+        "(❯❯) Dancer's Pride": [
+            "Energy -5, Stamina +10, Power +5, Skill points +5, King Halo bond +5",
+            "Energy +15, Skill points +5, King Halo bond +5"
+        ],
+        "You May Socialize With Me!": [
+            "Energy -20, Speed +10, Power +10, Wit +5, King Halo bond +5",
+            "Mood -1, Guts +25, King Halo bond +5"
+        ],
+        "You May Advise Me!": [
+            "Guts +10, Wit +5, King Halo bond +5",
+            "Homestretch Haste hint +1, King Halo bond +5"
+        ]
+    },
+    "30057": {
+        "name": "Gold Ship",
+        "rarity": "SSR",
+        "image_file": "Gold_Ship_30057.png",
+        "(❯) Raising the Uma Lord's Castle": [
+            "Maximum Energy +4, Gold Ship bond +5",
+            "Speed +10, Gold Ship bond +5"
+        ],
+        "(❯❯❯) Assembling the Uma Lord's Minions": [
+            "Randomly either: Energy -10, Speed +5, Stamina +5, Inside Scoop hint +3, Gold Ship bond +5 or Energy -10, Speed +10, Stamina +10, Innate Experience hint +3, Gold Ship bond +5",
+            "Energy +10, Maverick ○ hint +1"
+        ],
+        "Revive the Brand! Golshi's Yakisoba": [
+            "Mood +1, Stamina +5",
+            "Hanshin Racecourse ○ hint +1, Gold Ship bond +5"
+        ]
+    },
+    "30042": {
+        "name": "Bamboo Memory",
+        "rarity": "SSR",
+        "image_file": "Bamboo_Memory_30042.png",
+        "(❯❯) No One Is Above Discipline!": [
+            "Randomly either: Maximum Energy +4, Energy -10, Stamina +10, Power +10, Guts +5, Homestretch Haste hint +1, Bamboo Memory bond +5 or Energy -20, Stamina +10, Power +10, Guts +5, Bamboo Memory bond +5 or Energy -20, Stamina +10, Guts +10, Obtain Running Idle skill",
+            "Energy -10, Mood +1, Stamina +5, Power +5, Bamboo Memory bond +5",
+            "Energy +30, Hesitant Late Surgers hint +1, Event chain ended"
+        ],
+        "Overthrow the Rival!": [
+            "Guts +10, Bamboo Memory bond +5",
+            "Maximum Energy +4, Energy -5, Bamboo Memory bond +5"
+        ],
+        "Tons of Trouble!": [
+            "Stamina +5, Guts +5, Bamboo Memory bond +5",
+            "Energy -10, Standard Distance ○ hint +5, Bamboo Memory bond +5"
+        ]
+    },
+    "30039": {
+        "name": "Kawakami Princess",
+        "rarity": "SSR",
+        "image_file": "Kawakami_Princess_30039.png",
+        "(❯) Modestly! Boldly!": [
+            "Mood +1, Speed +5, Kawakami Princess bond +5",
+            "Skill points +10, Tether hint +1, Kawakami Princess bond +5"
+        ],
+        "(❯❯❯) Hit It! Princess Road!": [
+            "Speed +15, Guts +15, Center Stage hint +1, Kawakami Princess bond +5",
+            "Energy +25, Skill points +25"
+        ],
+        "Princess Punch!": [
+            "Guts +10, Kawakami Princess bond +5",
+            "Mood +1, Kawakami Princess bond +5"
+        ],
+        "Princess Escape!": [
+            "Energy +10, Kawakami Princess bond +5",
+            "Steadfast hint +1, Kawakami Princess bond +5"
+        ]
+    },
+    "30040": {
+        "name": "Hishi Akebono",
+        "rarity": "SSR",
+        "image_file": "Hishi_Akebono_30040.png",
+        "(❯❯) Let's Go... Buono ☆": [
+            "Energy +30, Guts +5, Hishi Akebono bond +5, (random) Get Slow Metabolism status",
+            "Stamina +5, Power +5, Hishi Akebono bond +5"
+        ],
+        "Eat Up ♪": [
+            "Energy +10, Hishi Akebono bond +5",
+            "Energy -5, Power +15, Hishi Akebono bond +5"
+        ],
+        "Leave It to Me ♪": [
+            "Stamina +10, Hishi Akebono bond +5",
+            "Energy -15, Sprinting Gear hint +2, Hishi Akebono bond +5"
+        ]
+    },
+    "30041": {
+        "name": "Mejiro Dober",
+        "rarity": "SSR",
+        "image_file": "Mejiro_Dober_30041.png",
+        "(❯) One Step Forward": [
+            "Energy -10, Skill points +15/+45, Mejiro Dober bond +5",
+            "Guts +5, Wit +5, Mejiro Dober bond +5"
+        ],
+        "Give It a Try": [
+            "Energy +15, Mejiro Dober bond +5",
+            "Mood +1, Skill points +15, Mejiro Dober bond +5"
+        ],
+        "Hope She'll Like It...": [
+            "Skill points +45, Mejiro Dober bond +5",
+            "Unyielding Spirit hint +1, Mejiro Dober bond +5"
+        ]
+    },
+    "30038": {
+        "name": "Sakura Chiyono O",
+        "rarity": "SSR",
+        "image_file": "Sakura_Chiyono_O_30038.png",
+        "(❯❯) Blooming Hope!": [
+            "Randomly either: Stamina +15, Heal a negative status effect, Sakura Chiyono O bond +5 or Energy -10, Guts +15, Sakura Chiyono O bond +5",
+            "Energy +10, Mood +1, Sakura Chiyono O bond +5"
+        ],
+        "(❯❯❯) Someday, I'll Bloom!": [
+            "Randomly either: Energy -15, Stamina +20, Skill points +10, Speed Star hint +3, Sakura Chiyono O bond +5 or Energy -15, Stamina +10, Skill points +5, Prepared to Pass hint +3, Sakura Chiyono O bond +5",
+            "Speed +5, Stamina +10, Power +5, Skill points +30, Sakura Chiyono O bond +5"
+        ],
+        "Until I Bloom...": [
+            "Energy +5, Stamina +5, Sakura Chiyono O bond +5",
+            "Spring Runner ○ hint +1, Sakura Chiyono O bond +5"
+        ]
+    },
+    "30032": {
+        "name": "Yaeno Muteki",
+        "rarity": "SSR",
+        "image_file": "Yaeno_Muteki_30032.png",
+        "(❯❯) A Reasonable Diet vs. an Explosive Diet": [
+            "Energy +10, Skill points +10, Yaeno Muteki bond +5",
+            "Energy +10, Wit +10, Skill points +10, Playtime's Over! hint +3, Event chain ended"
+        ],
+        "Firm and Plain, Yet Close to Virtue": [
+            "Speed +10",
+            "Mood +1, Power +5"
+        ],
+        "The Will to Protect!": [
+            "Stamina +10, Power +10",
+            "Medium Corners ○ hint +1"
+        ]
+    },
+    "30033": {
+        "name": "Winning Ticket",
+        "rarity": "SSR",
+        "image_file": "Winning_Ticket_30033.png",
+        "Full-Power Muscles!": [
+            "Stamina +5, Skill points +15, Winning Ticket bond +5",
+            "Mood +1, Skill points +15, Winning Ticket bond +5"
+        ],
+        "Full-Power Racing!": [
+            "Late Surger Corners ○ hint +1, Winning Ticket bond +5",
+            "Skill points +30, Winning Ticket bond +5"
+        ]
+    },
+    "30031": {
+        "name": "Yukino Bijin",
+        "rarity": "SSR",
+        "image_file": "Yukino_Bijin_30031.png",
+        "(❯) Cozy Memories of Wanko Soba": [
+            "Mood +1, Yukino Bijin bond +5",
+            "Maximum Energy +4, Yukino Bijin bond +5"
+        ],
+        "(❯❯) The Class Rep's Intense Crash Course": [
+            "Mood +1, Power +5, Yukino Bijin bond +5",
+            "Power +3, Guts +3, Wit +3, Yukino Bijin bond +5"
+        ],
+        "(❯❯❯) I Wanna Win!": [
+            "Mood +1, No Stopping Me! hint +1, Yukino Bijin bond +5",
+            "Power +3, Guts +3, Wit +3, No Stopping Me! hint +1, Yukino Bijin bond +5"
+        ],
+        "For a Spiffy Concert": [
+            "Guts +10, Yukino Bijin bond +5",
+            "Energy -10, Guts +15, Yukino Bijin bond +5"
+        ],
+        "Aiming for the City Spots": [
+            "Energy -10, Mood +1, Guts +10, Yukino Bijin bond +5",
+            "Corner Acceleration ○ hint +1, Yukino Bijin bond +5"
+        ]
+    },
+    "30028": {
+        "name": "Kitasan Black",
+        "rarity": "SSR",
+        "image_file": "Kitasan_Black_30028.png",
+        "(❯❯) Paying It Forward": [
+            "Energy +10, Mood +1, Kitasan Black bond +5",
+            "Speed +5/+10, Straightaway Adept hint +1/+3, Kitasan Black bond +5"
+        ],
+        "Ah, Friendship": [
+            "Mood +1, Power +5, Kitasan Black bond +5",
+            "Energy +10, Kitasan Black bond +5"
+        ],
+        "Ah, Home Sweet Home": [
+            "Speed +5, Power +10, Kitasan Black bond +5",
+            "Get Practice Perfect ○ status, Kitasan Black bond +5"
+        ]
+    },
+    "30029": {
+        "name": "Satono Diamond",
+        "rarity": "SSR",
+        "image_file": "Satono_Diamond_30029.png",
+        "(❯❯) Diamond Fixation": [
+            "Wit +10, Satono Diamond bond +5",
+            "Randomly either: Energy +15, Stamina +10, Satono Diamond bond +5 or Mood -1, Guts +20"
+        ],
+        "(❯❯❯) Only for You": [
+            "Energy -20, Stamina +30, Iron Will hint +1, Satono Diamond bond +5",
+            "Energy +5, Guts +5, Iron Will hint +1, Satono Diamond bond +5"
+        ],
+        "I Love New Things!": [
+            "Guts +10, Satono Diamond bond +5",
+            "Energy -10, Stamina +20, Satono Diamond bond +5"
+        ],
+        "I Love Complicated Things!": [
+            "Stamina +5, Guts +10, Satono Diamond bond +5",
+            "Hesitant Front Runners hint +1, Satono Diamond bond +5"
+        ]
+    },
+    "30030": {
+        "name": "Matikanetannhauser",
+        "rarity": "SSR",
+        "image_file": "Matikanetannhauser_30030.png",
+        "(❯) Seeking Uniqueness!": [
+            "Mood +1, Matikanetannhauser bond +5",
+            "Energy +10/+30, Matikanetannhauser bond +5"
+        ],
+        "Just Your Typical Hard Work!": [
+            "Speed +10, Matikanetannhauser bond +5",
+            "Power +10, Matikanetannhauser bond +5"
+        ],
+        "Just A Typical Accident?!": [
+            "Stamina +5, Guts +10, Matikanetannhauser bond +5",
+            "Subdued Front Runners hint +1, Matikanetannhauser bond +5"
+        ]
+    },
+    "30027": {
+        "name": "Mejiro Palmer",
+        "rarity": "SSR",
+        "image_file": "Mejiro_Palmer_30027.png",
+        "(❯) Run Away to First Base": [
+            "Energy -15, Stamina +10, Guts +10, Mejiro Palmer bond +5",
+            "Energy -15, Guts +10, Wit +10, Mejiro Palmer bond +5"
+        ],
+        "(❯❯) Runaway Romance": [
+            "Energy +10, Guts +5, Wit +5, Mejiro Palmer bond +5",
+            "Energy +10, Front Runner Savvy ○ hint +1, Mejiro Palmer bond +5"
+        ],
+        "(❯❯❯) Optimistic Escapism: Never Give Up!": [
+            "Energy -20, Stamina +5, Guts +5, Vanguard Spirit hint +3 or Keeping the Lead hint +1/+3, Mejiro Palmer bond +5",
+            "Energy +10, Lone Wolf hint +1"
+        ],
+        "An Inescapable Choice?": [
+            "Energy -15, Guts +20, Mejiro Palmer bond +5",
+            "Power +5, Skill points +15, Mejiro Palmer bond +5"
+        ],
+        "Optimistic Escapism": [
+            "Guts +15, Mejiro Palmer bond +5",
+            "Wet Conditions ○ hint +1, Mejiro Palmer bond +5"
+        ]
+    },
+    "30026": {
+        "name": "Twin Turbo",
+        "rarity": "SSR",
+        "image_file": "Twin_Turbo_30026.png",
+        "(❯) I'm Not Afraid!": [
+            "Randomly either: Speed +10, Twin Turbo bond +5 or Energy -10, Speed +10, Event chain ended",
+            "Energy +20, Event chain ended"
+        ],
+        "(❯❯) Can't Catch Me!": [
+            "Randomly either: Speed +15, Leader's Pride hint +3, Twin Turbo bond +5 or Energy -10, Speed +10, Event chain ended",
+            "Energy +25, Event chain ended"
+        ],
+        "(❯❯❯) Turbo Is Strong!": [
+            "Randomly either: Energy -10, Speed +5, Early Lead hint +3 or Energy -10, Speed +25, Taking the Lead hint +3, Twin Turbo bond +5",
+            "Energy +15, Watchful Eye hint +3"
+        ],
+        "Just Start Running!": [
+            "Mood -1, Speed +20",
+            "Energy -10, Power +20"
+        ],
+        "I'm All Fired Up!": [
+            "Energy +15, Twin Turbo bond +5",
+            "Early Lead hint +1, Twin Turbo bond +5"
+        ]
+    },
+    "30024": {
+        "name": "Oguri Cap",
+        "rarity": "SSR",
+        "image_file": "Oguri_Cap_30024.png",
+        "(❯❯) How Should I Respond?": [
+            "Power +5, Skill points +10, Stamina to Spare hint +1, Oguri Cap bond +5",
+            "Stamina +5, Skill points +10, Outer Swell hint +1, Oguri Cap bond +5"
+        ],
+        "(❯❯❯) What I Want to Say": [
+            "Randomly either: Power +10, Guts +5, Skill points +10, Oguri Cap bond +5, Furious Feat hint +1 or Power +15, Guts +10, Skill points +15, Oguri Cap bond +5, Furious Feat hint +3",
+            "Energy +30"
+        ],
+        "Conquering the Crowds": [
+            "Power +5, Skill points +15",
+            "Nakayama Racecourse ○ hint +1"
+        ]
+    },
+    "30025": {
+        "name": "Special Week",
+        "rarity": "SSR",
+        "image_file": "Special_Week_30025.png",
+        "(❯❯) Just a Little Closer": [
+            "Energy -10, Speed +15, Special Week bond +5",
+            "Energy -10, Skill points +20, Special Week bond +5",
+            "Energy -10, Shake It Out hint +1, Special Week bond +5"
+        ],
+        "Watch Where You're Going!": [
+            "Extra Tank hint +1, Special Week bond +5",
+            "Guts +15, Special Week bond +5"
+        ],
+        "So Many Options!": [
+            "Energy +10, Mood +1, Special Week bond +5",
+            "Energy -10, Stamina +15, Skill points +15, Special Week bond +5"
+        ]
+    },
+    "30001": {
+        "name": "Special Week",
+        "rarity": "SSR",
+        "image_file": "Special_Week_30001.png",
+        "(❯❯) A Roller Coaster of Feelings!": [
+            "Energy -10, Speed +5, Stamina +5, Guts +10, Special Week bond +5",
+            "Energy +20, Wit +10, Special Week bond +5, Event chain ended"
+        ],
+        "So Many Options!": [
+            "Energy +10, Mood +1, Special Week bond +5",
+            "Energy -10, Stamina +15, Skill points +15, Special Week bond +5"
+        ]
+    },
+    "30002": {
+        "name": "Silence Suzuka",
+        "rarity": "SSR",
+        "image_file": "Silence_Suzuka_30002.png",
+        "On and On": [
+            "Speed +10, Stamina +5, Silence Suzuka bond +5",
+            "Speed +15, Silence Suzuka bond +5"
+        ],
+        "What Should I Do?": [
+            "Speed +5, Stamina +5, Wit +5, Silence Suzuka bond +5",
+            "Left-Handed ○ hint +1, Silence Suzuka bond +5"
+        ]
+    },
+    "30003": {
+        "name": "Tokai Teio",
+        "rarity": "SSR",
+        "image_file": "Tokai_Teio_30003.png",
+        "My Way, Or...": [
+            "Mood +1, Skill points +15, Tokai Teio bond +5",
+            "Guts +15, Tokai Teio bond +5"
+        ],
+        "My Weapon": [
+            "Mood +1, Guts +10, Tokai Teio bond +5",
+            "Pace Chaser Straightaways ○ hint +1, Tokai Teio bond +5"
+        ]
+    },
+    "30004": {
+        "name": "Gold Ship",
+        "rarity": "SSR",
+        "image_file": "Gold_Ship_30004.png",
+        "Adventurer Gold Ship": [
+            "Stamina +15, Gold Ship bond +5",
+            "Guts +10, Skill points +15, Gold Ship bond +5"
+        ],
+        "Revive the Brand! Golshi's Yakisoba": [
+            "Mood +1, Stamina +5",
+            "Hanshin Racecourse ○ hint +1, Gold Ship bond +5"
+        ]
+    },
+    "30005": {
+        "name": "Vodka",
+        "rarity": "SSR",
+        "image_file": "Vodka_30005.png",
+        "The Coolest Line": [
+            "Power +10, Vodka bond +5",
+            "Power +5, Skill points +15, Vodka bond +5"
+        ],
+        "Enemies on Main Street": [
+            "Nimble Navigator hint +1, Vodka bond +5",
+            "Power +5, Skill points +15, Vodka bond +5"
+        ]
+    },
+    "30006": {
+        "name": "Grass Wonder",
+        "rarity": "SSR",
+        "image_file": "Grass_Wonder_30006.png",
+        "(❯❯) A Moment's Respite": [
+            "Energy +15, Grass Wonder bond +5",
+            "Randomly either: Energy -10, Power +5, Guts +5, Wit +5, Grass Wonder bond +5 or Power +5, Guts +5, Wit +10, Grass Wonder bond +5"
+        ],
+        "Library Vexation": [
+            "Wit +10, Grass Wonder bond +5",
+            "Guts +5, Wit +5, Grass Wonder bond +5"
+        ],
+        "A Friendly Daytime Discussion": [
+            "Frenzied Pace Chasers hint +1, Grass Wonder bond +5",
+            "Target in Sight ○ hint +1, Grass Wonder bond +5"
+        ]
+    },
+    "30007": {
+        "name": "El Condor Pasa",
+        "rarity": "SSR",
+        "image_file": "El_Condor_Pasa_30007.png",
+        "(❯❯) Uma-me": [
+            "Energy +30, El Condor Pasa bond +5",
+            "Stamina to Spare hint +1, El Condor Pasa bond +5, Event chain ended"
+        ],
+        "Blazing Fire!": [
+            "Stamina +10, El Condor Pasa bond +5",
+            "Energy -10, Power +20, El Condor Pasa bond +5"
+        ],
+        "Secret Notebook!": [
+            "Power +10, El Condor Pasa bond +5",
+            "Sunny Days ○ hint +1, El Condor Pasa bond +5"
+        ]
+    },
+    "30008": {
+        "name": "Seiun Sky",
+        "rarity": "SSR",
+        "image_file": "Seiun_Sky_30008.png",
+        "(❯) Be Strategic ☆": [
+            "Energy +10, Wit +5, Seiun Sky bond +5",
+            "Skill points +30, Second Wind hint +1, Seiun Sky bond -5, Event chain ended"
+        ],
+        "Recruiting Cat Catchers": [
+            "Energy +10, Wit +5, Seiun Sky bond +5",
+            "Energy -10, Speed +15, Stamina +5, Seiun Sky bond +5"
+        ],
+        "Recruiting Advisors": [
+            "Wit +15, Seiun Sky bond +5",
+            "Keeping the Lead hint +1, Seiun Sky bond +5"
+        ]
+    },
+    "30009": {
+        "name": "Tamamo Cross",
+        "rarity": "SSR",
+        "image_file": "Tamamo_Cross_30009.png",
+        "Tamamo's School Tour": [
+            "Wit +10, Tamamo Cross bond +5",
+            "Stamina +5, Guts +5, Tamamo Cross bond +5"
+        ],
+        "A Battle I Can't Lose!": [
+            "Calm in a Crowd hint +1, Tamamo Cross bond +5",
+            "Stamina +5, Wit +5, Tamamo Cross bond +5"
+        ]
+    },
+    "30010": {
+        "name": "Fine Motion",
+        "rarity": "SSR",
+        "image_file": "Fine_Motion_30010.png",
+        "(❯) Lovely Training Weather ♪": [
+            "Wit +5, Skill points +20, Fine Motion bond +5",
+            "Speed +10, Stamina +5",
+            "Get Practice Perfect ○ status, Fine Motion bond +5"
+        ],
+        "Wonderful New Shoes": [
+            "Speed +5, Skill points +10, Fine Motion bond +5",
+            "Energy -10, Stamina +5, Skill points +20, Fine Motion bond +5"
+        ],
+        "Reminiscent Clover": [
+            "Corner Adept ○ hint +1, Fine Motion bond +5",
+            "Guts +15, Fine Motion bond +5"
+        ]
+    },
+    "30011": {
+        "name": "Ines Fujin",
+        "rarity": "SSR",
+        "image_file": "Ines_Fujin_30011.png",
+        "It's a Game of Tag!": [
+            "Energy +10, Speed +5, Ines Fujin bond +5",
+            "Fast-Paced hint +1, Ines Fujin bond +5"
+        ],
+        "Ten Minutes Left!": [
+            "Guts +15, Ines Fujin bond +5",
+            "Wit +15, Ines Fujin bond +5"
+        ]
+    },
+    "30012": {
+        "name": "Winning Ticket",
+        "rarity": "SSR",
+        "image_file": "Winning_Ticket_30012.png",
+        "Full-Power Muscles!": [
+            "Stamina +5, Skill points +15, Winning Ticket bond +5",
+            "Mood +1, Skill points +15, Winning Ticket bond +5"
+        ],
+        "Full-Power Racing!": [
+            "Late Surger Corners ○ hint +1, Winning Ticket bond +5",
+            "Skill points +30, Winning Ticket bond +5"
+        ]
+    },
+    "30013": {
+        "name": "Air Shakur",
+        "rarity": "SSR",
+        "image_file": "Air_Shakur_30013.png",
+        "//Verification Required": [
+            "Energy +10, Guts +5, Air Shakur bond +5",
+            "Energy -10, Stamina +5, Guts +10, Air Shakur bond +5"
+        ],
+        "//Absolute Desire": [
+            "Pace Strategy hint +1, Air Shakur bond +5",
+            "Maximum Energy +4, Guts +5, Air Shakur bond +5"
+        ]
+    },
+    "30014": {
+        "name": "Gold City",
+        "rarity": "SSR",
+        "image_file": "Gold_City_30014.png",
+        "08:36 / Crap, I Overslept": [
+            "Mood -1, Skill points +45, Gold City bond +5",
+            "Energy +10, Wit +5, Gold City bond +5"
+        ],
+        "13:12 / Lunch Break, Gotta Get Myself Together": [
+            "Skill points +30, Gold City bond +5",
+            "A Small Breather hint +1, Gold City bond +5"
+        ]
+    },
+    "30015": {
+        "name": "Sakura Bakushin O",
+        "rarity": "SSR",
+        "image_file": "Sakura_Bakushin_O_30015.png",
+        "Genius Efficiency!": [
+            "Speed +15, Sakura Bakushin O bond +5",
+            "Speed +5, Power +10, Sakura Bakushin O bond +5"
+        ],
+        "Enough to Break into a Dash!": [
+            "Gap Closer hint +1, Sakura Bakushin O bond +5",
+            "Energy -10, Speed +10, Power +5, Sakura Bakushin O bond +5"
+        ]
+    },
+    "30016": {
+        "name": "Super Creek",
+        "rarity": "SSR",
+        "image_file": "Super_Creek_30016.png",
+        "Leave it to Me to Help Out! ♪": [
+            "Energy +15, Super Creek bond +5",
+            "Stamina +10, Super Creek bond +5"
+        ],
+        "Leave it to Me to Be Considerate! ♪": [
+            "Deep Breaths hint +1, Super Creek bond +5",
+            "Energy +10, Stamina +5, Super Creek bond +5"
+        ]
+    },
+    "30017": {
+        "name": "Smart Falcon",
+        "rarity": "SSR",
+        "image_file": "Smart_Falcon_30017.png",
+        "(❯) Always on Stage ☆": [
+            "Wit +10, Smart Falcon bond +5",
+            "Energy +25, Focus hint +1, Smart Falcon bond +5, Event chain ended"
+        ],
+        "Chants Are the Life of a Concert ☆": [
+            "Stamina +5, Guts +10, Smart Falcon bond +5",
+            "Wit +15, Smart Falcon bond +5"
+        ],
+        "If I'm Cute, Come to My Show! ☆": [
+            "Energy -10, Power +10, Final Push hint +1, Smart Falcon bond +5",
+            "Energy +10, Wit +5, Smart Falcon bond +5"
+        ]
+    },
+    "30018": {
+        "name": "Nishino Flower",
+        "rarity": "SSR",
+        "image_file": "Nishino_Flower_30018.png",
+        "(❯❯) Aspiring to Adulthood": [
+            "Energy -10, Wit +20, Nishino Flower bond +5",
+            "Wit +5, Skill points +15"
+        ],
+        "Warmth, Love, and Lunch": [
+            "Get Charming ○ status, Nishino Flower bond +5",
+            "Energy +20, Nishino Flower bond +5"
+        ],
+        "Let's Bloom Beautifully ♪": [
+            "Wit +15, Nishino Flower bond +5",
+            "Speed +10, Power +5, Nishino Flower bond +5"
+        ]
+    },
+    "30019": {
+        "name": "Haru Urara",
+        "rarity": "SSR",
+        "image_file": "Haru_Urara_30019.png",
+        "Urara's ☆ Study Review": [
+            "Energy +10, Wit +5, Haru Urara bond +5",
+            "Mood +1, Wit +5, Haru Urara bond +5"
+        ],
+        "Urara's ☆ Long Shot Dash!": [
+            "Long Shot ○ hint +1, Haru Urara bond +5",
+            "Mood +1, Energy +10, Haru Urara bond +5"
+        ]
+    },
+    "30020": {
+        "name": "Biko Pegasus",
+        "rarity": "SSR",
+        "image_file": "Biko_Pegasus_30020.png",
+        "A Hero's Woes": [
+            "Energy +15, Biko Pegasus bond +5",
+            "Energy +5, Power +5, Biko Pegasus bond +5"
+        ],
+        "Preparing My Special Move!": [
+            "Sprint Straightaways ○ hint +1, Biko Pegasus bond +5",
+            "Energy +30, Biko Pegasus bond +5"
+        ]
+    },
+    "30021": {
+        "name": "Tazuna Hayakawa",
+        "rarity": "SSR",
+        "image_file": "Tazuna_Hayakawa_30021.png",
+        "(❯❯❯) Memories of Cinema": [
+            "Energy +35, Stamina +6, Mood +1, Tazuna Hayakawa bond +5",
+            "Stamina +12, Guts +12, Mood +1, Tazuna Hayakawa bond +5"
+        ],
+        "My Chosen Way of Life": [
+            "Energy +14, Mood +1, Tazuna Hayakawa bond +5",
+            "Mood +1, Wit +6, Tazuna Hayakawa bond +5"
+        ],
+        "Enthusiastic Pair": [
+            "Energy +14, Wit +6, Mood +1, Tazuna Hayakawa bond +5, Can start dating",
+            "Mood -1, Tazuna Hayakawa bond -5, Watchful Eye hint +1, Event chain ended"
+        ]
+    },
+    "30022": {
+        "name": "Mejiro McQueen",
+        "rarity": "SSR",
+        "image_file": "Mejiro_McQueen_30022.png",
+        "To Maintain My Weight": [
+            "Energy -10, Stamina +15, Mejiro McQueen bond +5",
+            "Maximum Energy +4, Stamina +5, Mejiro McQueen bond +5"
+        ],
+        "To Reach the Greatest Heights": [
+            "Stamina +5, Guts +5, Mejiro McQueen bond +5",
+            "Early Lead hint +1, Mejiro McQueen bond +5"
+        ]
+    },
+    "30023": {
+        "name": "Rice Shower",
+        "rarity": "SSR",
+        "image_file": "Rice_Shower_30023.png",
+        "A Page About Cloudy Weather": [
+            "Speed +5, Guts +5, Rice Shower bond +5",
+            "Firm Conditions ○ hint +1, Rice Shower bond +5"
+        ]
+    },
+    "20034": {
+        "name": "Mejiro Ardan",
+        "rarity": "SR",
+        "image_file": "Mejiro_Ardan_20034.png",
+        "(❯) Special Drinks Made with Friends ♪": [
+            "Randomly either: Energy +10, Speed +5, Wit +5, Skill points +10 or Wit +10",
+            "Mood +1, Speed +10"
+        ],
+        "The Glass Girl Wants to Study": [
+            "Speed +10, Mejiro Ardan bond +5",
+            "Energy +10, Wit +5, Mejiro Ardan bond +5"
+        ],
+        "The Glass Girl Wants to Play": [
+            "Speed +10, Wit +10, Mejiro Ardan bond +5",
+            "Hesitant Pace Chasers hint +1, Mejiro Ardan bond +5"
+        ]
+    },
+    "20031": {
+        "name": "Shinko Windy",
+        "rarity": "SR",
+        "image_file": "Shinko_Windy_20031.png",
+        "(❯) Dig Here, Windy!": [
+            "Speed +10, Shinko Windy bond +5",
+            "Energy -5, Skill points +30, Shinko Windy bond +5"
+        ],
+        "Chomp Extermination!": [
+            "Speed +3, Mood +1, Shinko Windy bond +5",
+            "Energy +10, Skill points +5, Shinko Windy bond +5"
+        ],
+        "Chomp Attack!": [
+            "Skill points +15, Shinko Windy bond +5",
+            "Speed +3, Unyielding Spirit hint +1, Shinko Windy bond +5"
+        ]
+    },
+    "20029": {
+        "name": "Seeking the Pearl",
+        "rarity": "SR",
+        "image_file": "Seeking_the_Pearl_20029.png",
+        "(❯) No More Words ♪ Use Body Language!": [
+            "Mood +1, Lucky Seven hint +1, Seeking the Pearl bond +5",
+            "Power +10, Guts +10, Seeking the Pearl bond +5",
+            "Energy +30"
+        ],
+        "Full-Power Passion!": [
+            "Energy +10, Mood +1, Seeking the Pearl bond +5",
+            "Power +5, Guts +5, Seeking the Pearl bond +5"
+        ],
+        "Full-Power Thinking!": [
+            "Wit +20, Seeking the Pearl bond +5",
+            "Energy -10, Uma Stan hint +3, Seeking the Pearl bond +5"
+        ]
+    },
+    "20028": {
+        "name": "Zenno Rob Roy",
+        "rarity": "SR",
+        "image_file": "Zenno_Rob_Roy_20028.png",
+        "(❯) The Bookworm and the Magical Girl": [
+            "Stamina +5, Wit +5, Zenno Rob Roy bond +5",
+            "Energy +20, Power +10, Zenno Rob Roy bond +5, Event chain ended"
+        ],
+        "Book-lover Quirks": [
+            "Speed +5, Wit +5, Zenno Rob Roy bond +5",
+            "Energy +10, Power +5, Zenno Rob Roy bond +5"
+        ],
+        "A Tale Entrusted": [
+            "Stamina +10, Wit +10, Zenno Rob Roy bond +5",
+            "Medium Straightaways ○ hint +1, Zenno Rob Roy bond +5"
+        ]
+    },
+    "20027": {
+        "name": "Nishino Flower",
+        "rarity": "SR",
+        "image_file": "Nishino_Flower_20027.png",
+        "(❯❯) I Want to Say Thank You!": [
+            "Power +5, Straightaway Adept hint +1, Nishino Flower bond +5",
+            "Wit +5, Straightaway Acceleration hint +1, Nishino Flower bond +5"
+        ],
+        "Warmth, Love, and Lunch": [
+            "Get Charming ○ status, Nishino Flower bond +5",
+            "Energy +20, Nishino Flower bond +5"
+        ],
+        "Let's Bloom Beautifully ♪": [
+            "Wit +15, Nishino Flower bond +5",
+            "Speed +10, Power +5, Nishino Flower bond +5"
+        ]
+    },
+    "20026": {
+        "name": "Nice Nature",
+        "rarity": "SR",
+        "image_file": "Nice_Nature_20026.png",
+        "(❯) Chasing Their Backs": [
+            "Energy +5, Wit +3, Nice Nature bond +5",
+            "Nice Nature bond +20"
+        ],
+        "Not like Meow": [
+            "Energy +20, Nice Nature bond +5",
+            "Energy +10, Wit +5, Nice Nature bond +5"
+        ],
+        "(Delicious) Burden": [
+            "Ramp Up hint +1, Nice Nature bond +5",
+            "Mood +1, Maximum Energy +4, Nice Nature bond +5"
+        ]
+    },
+    "20025": {
+        "name": "Ikuno Dictus",
+        "rarity": "SR",
+        "image_file": "Ikuno_Dictus_20025.png",
+        "(❯❯) Ikuno-Style Support": [
+            "Wit +15, Frenzied Front Runners hint +3, Ikuno Dictus bond +5",
+            "Wit +15, Frenzied End Closers hint +3, Ikuno Dictus bond +5"
+        ],
+        "Ikuno-Style Flawless Method": [
+            "Wit +10, Ikuno Dictus bond +5",
+            "Skill points +30, Ikuno Dictus bond +5"
+        ],
+        "Ikuno-Style Management": [
+            "Stamina +20, Ikuno Dictus bond +5",
+            "Trick (Rear) hint +1, Ikuno Dictus bond +5"
+        ]
+    },
+    "20024": {
+        "name": "Daitaku Helios",
+        "rarity": "SR",
+        "image_file": "Daitaku_Helios_20024.png",
+        "(❯) #BFF #Party!": [
+            "Power +10, Daitaku Helios bond +5",
+            "Speed +10, Daitaku Helios bond +5"
+        ],
+        "(❯❯) #LOL #Party! #Round2": [
+            "Power +10, (random) Speed +10, Straight Descent hint +1/+3, Daitaku Helios bond +5",
+            "Energy +20, Watchful Eye hint +1, Daitaku Helios bond +5"
+        ],
+        "Encounter With the Sun ☆": [
+            "Power +10, Daitaku Helios bond +5",
+            "Get Hot Topic status, Daitaku Helios bond +5"
+        ],
+        "Smiles Forever": [
+            "Speed +5, Power +10, Daitaku Helios bond +5",
+            "Long Shot ○ hint +1, Daitaku Helios bond +5"
+        ]
+    },
+    "20023": {
+        "name": "Sweep Tosho",
+        "rarity": "SR",
+        "image_file": "Sweep_Tosho_20023.png",
+        "(❯) Some Very Green Friends": [
+            "Speed +5, Skill points +10, Lucky Seven hint +1, Sweep Tosho bond +5",
+            "Mood -1, Maverick ○ hint +5"
+        ],
+        "(❯❯) Premeditated Mischief": [
+            "Speed +10, Skill points +20, Levelheaded hint +1, Sweep Tosho bond +5",
+            "Mood -1, Lone Wolf hint +1"
+        ],
+        "Miracle ☆ Escape!": [
+            "Energy +10, Speed +5, Sweep Tosho bond +5",
+            "Energy -10, Speed +20, Sweep Tosho bond +5"
+        ],
+        "Wonderful ☆ Mistake!": [
+            "Randomly either: Energy -15, Skill points +40 or Energy -20, Skill points +40, Sweep Tosho bond +5",
+            "Get Charming ○ status, Sweep Tosho bond +5"
+        ]
+    },
+    "20001": {
+        "name": "Fuji Kiseki",
+        "rarity": "SR",
+        "image_file": "Fuji_Kiseki_20001.png",
+        "Sleight of Hand": [
+            "Wit +5, Skill points +15, Fuji Kiseki bond +5",
+            "Power +5, Skill points +15, Fuji Kiseki bond +5"
+        ],
+        "Misdirection": [
+            "Prepared to Pass hint +1, Fuji Kiseki bond +5",
+            "Skill points +30, Fuji Kiseki bond +5"
+        ]
+    },
+    "20002": {
+        "name": "Daiwa Scarlet",
+        "rarity": "SR",
+        "image_file": "Daiwa_Scarlet_20002.png",
+        "I'm Going to Win Tomorrow!": [
+            "Wit +10, Daiwa Scarlet bond +5",
+            "Mood +1, Skill points +15, Daiwa Scarlet bond +5"
+        ],
+        "This Is Nothing!": [
+            "Stamina to Spare hint +1, Daiwa Scarlet bond +5",
+            "Energy +20, Mood +1, Daiwa Scarlet bond +5"
+        ]
+    },
+    "20003": {
+        "name": "Hishi Amazon",
+        "rarity": "SR",
+        "image_file": "Hishi_Amazon_20003.png",
+        "Hishiama's Struggles: Problem Children": [
+            "Energy +10, Wit +5, Hishi Amazon bond +5",
+            "Energy -10, Speed +10, Guts +5, Hishi Amazon bond +5"
+        ],
+        "Hishiama's Struggles: Final Stretch": [
+            "Hesitant End Closers hint +1, Hishi Amazon bond +5",
+            "Power +5, Skill points +15, Hishi Amazon bond +5"
+        ]
+    },
+    "20004": {
+        "name": "Air Groove",
+        "rarity": "SR",
+        "image_file": "Air_Groove_20004.png",
+        "Strict but Gracious": [
+            "Go with the Flow hint +1, Air Groove bond +5",
+            "Energy +10, Wit +10"
+        ],
+        "Agile but Strong": [
+            "Power +15, Air Groove bond +5",
+            "Speed +10, Stamina +5, Air Groove bond +5"
+        ]
+    },
+    "20005": {
+        "name": "Agnes Digital",
+        "rarity": "SR",
+        "image_file": "Agnes_Digital_20005.png",
+        "Umamusume Deficiency!": [
+            "Energy +5, Speed +5, Agnes Digital bond +5",
+            "Speed +5, Power +5, Agnes Digital bond +5"
+        ],
+        "Heavy Romance": [
+            "Rainy Days ○ hint +1, Agnes Digital bond +5",
+            "Wet Conditions ○ hint +1, Agnes Digital bond +5"
+        ]
+    },
+    "20006": {
+        "name": "Biwa Hayahide",
+        "rarity": "SR",
+        "image_file": "Biwa_Hayahide_20006.png",
+        "Last-Minute Modal Theory": [
+            "Power +15, Biwa Hayahide bond +5",
+            "Speed +10, Skill points +15, Biwa Hayahide bond +5"
+        ],
+        "Step-Out-of-Your-Comfort-Zone Theory": [
+            "Energy -10, Inside Scoop hint +1, Biwa Hayahide bond +5",
+            "Energy +10, Stamina +10, Biwa Hayahide bond +5"
+        ]
+    },
+    "20007": {
+        "name": "Mayano Top Gun",
+        "rarity": "SR",
+        "image_file": "Mayano_Top_Gun_20007.png",
+        "Snack Advice for Mayano!": [
+            "Stamina +5, Guts +5, Mayano Top Gun bond +5",
+            "Stamina +10, Mayano Top Gun bond +5"
+        ],
+        "Fashion Advice for Mayano!": [
+            "Straightaway Adept hint +1, Mayano Top Gun bond +5",
+            "Stamina +10, Mayano Top Gun bond +5"
+        ]
+    },
+    "20008": {
+        "name": "Manhattan Cafe",
+        "rarity": "SR",
+        "image_file": "Manhattan_Cafe_20008.png",
+        "Solo Nighttime Run": [
+            "Stamina +10, Manhattan Cafe bond +5",
+            "Energy +10, Stamina +5, Manhattan Cafe bond +5"
+        ],
+        "A Taste of Silence": [
+            "Stamina +5, Skill points +15, Manhattan Cafe bond +5",
+            "Non-Standard Distance ○ hint +1, Manhattan Cafe bond +5"
+        ]
+    },
+    "20009": {
+        "name": "Mihono Bourbon",
+        "rarity": "SR",
+        "image_file": "Mihono_Bourbon_20009.png",
+        "(❯) I'm Not a Cyborg": [
+            "Guts +10, Skill points +15, Mihono Bourbon bond +5",
+            "Energy -10, Corner Recovery ○ hint +1, (random) Mihono Bourbon bond -5, Event chain ended"
+        ],
+        "Do No Harm": [
+            "Energy -10, Stamina +5, Power +15, Mihono Bourbon bond +5",
+            "Energy +10, Wit +5, Mihono Bourbon bond +5"
+        ],
+        "Orders Must Be Followed": [
+            "Focus hint +1, Mihono Bourbon bond +5",
+            "Speed +10, Skill points +15, Mihono Bourbon bond +5"
+        ]
+    },
+    "20010": {
+        "name": "Mejiro Ryan",
+        "rarity": "SR",
+        "image_file": "Mejiro_Ryan_20010.png",
+        "My Muscles and Me, Onward to Tomorrow!": [
+            "Energy -10, Power +15, Mejiro Ryan bond +5",
+            "Maximum Energy +4, Power +5, Mejiro Ryan bond +5"
+        ],
+        "It's Not Like I Like Romance!": [
+            "Pace Strategy hint +1, Mejiro Ryan bond +5",
+            "Energy +30, Mejiro Ryan bond +5"
+        ]
+    },
+    "20011": {
+        "name": "Yukino Bijin",
+        "rarity": "SR",
+        "image_file": "Yukino_Bijin_20011.png",
+        "For a Spiffy Concert": [
+            "Guts +10, Yukino Bijin bond +5",
+            "Energy -10, Guts +15, Yukino Bijin bond +5"
+        ],
+        "Aiming for the City Spots": [
+            "Energy -10, Mood +1, Guts +10, Yukino Bijin bond +5",
+            "Corner Acceleration ○ hint +1, Yukino Bijin bond +5"
+        ]
+    },
+    "20012": {
+        "name": "Agnes Tachyon",
+        "rarity": "SR",
+        "image_file": "Agnes_Tachyon_20012.png",
+        "The Correlation between Sleep and Efficiency": [
+            "Power +5, Wit +5, Agnes Tachyon bond +5",
+            "Wit +10, Agnes Tachyon bond +5"
+        ],
+        "Happenstance Introduced Through Intervention": [
+            "Late Surger Savvy ○ hint +1, Agnes Tachyon bond +5",
+            "Wit +10, Agnes Tachyon bond +5"
+        ]
+    },
+    "20013": {
+        "name": "Eishin Flash",
+        "rarity": "SR",
+        "image_file": "Eishin_Flash_20013.png",
+        "Unforeseen Lunch": [
+            "Energy +15, Eishin Flash bond +5",
+            "Speed +5, Guts +5, Eishin Flash bond +5"
+        ],
+        "Responding to the Unforeseen": [
+            "Guts +10, Eishin Flash bond +5",
+            "Target in Sight ○ hint +1, Eishin Flash bond +5"
+        ]
+    },
+    "20014": {
+        "name": "Narita Taishin",
+        "rarity": "SR",
+        "image_file": "Narita_Taishin_20014.png",
+        "Just Leave Me Alone": [
+            "Stamina +5, Skill points +15, Narita Taishin bond +5",
+            "Power +5, Skill points +15, Narita Taishin bond +5"
+        ],
+        "Just Don't Bother Me": [
+            "Pressure hint +1, Narita Taishin bond +5",
+            "Skill points +30, Narita Taishin bond +5"
+        ]
+    },
+    "20015": {
+        "name": "Marvelous Sunday",
+        "rarity": "SR",
+        "image_file": "Marvelous_Sunday_20015.png",
+        "Marvelous, No Question ☆": [
+            "Energy +10, Speed +5, Marvelous Sunday bond +5",
+            "Mood +1, Speed +5, Marvelous Sunday bond +5"
+        ],
+        "How To Be More Marvelous ☆": [
+            "Energy +10, Mood +1, Marvelous Sunday bond +5",
+            "Hanshin Racecourse ○ hint +1, Marvelous Sunday bond +5"
+        ]
+    },
+    "20016": {
+        "name": "Matikanefukukitaru",
+        "rarity": "SR",
+        "image_file": "Matikanefukukitaru_20016.png",
+        "(❯❯) Guidance and Friends": [
+            "Skill points +45, Matikanefukukitaru bond +5",
+            "Randomly either: Energy +10, Mood +1, Right-Handed ○ hint +3, Matikanefukukitaru bond +5 or Energy -20, Right-Handed ○ hint +1, Matikanefukukitaru bond +5"
+        ],
+        "Maximum Spirituality": [
+            "Wit +5, Skill points +15, Matikanefukukitaru bond +5",
+            "Energy -10, Speed +5, Stamina +5, Power +5, Matikanefukukitaru bond +5"
+        ],
+        "When Piety and Kindness Intersect": [
+            "Skill points +30, Matikanefukukitaru bond +5",
+            "Energy +20, Matikanefukukitaru bond +5"
+        ]
+    },
+    "20017": {
+        "name": "Meisho Doto",
+        "rarity": "SR",
+        "image_file": "Meisho_Doto_20017.png",
+        "(❯) What I'm Destined For...": [
+            "Energy +10, Guts +5, Meisho Doto bond +5",
+            "Randomly either: Energy -10, Wit +5 or Maximum Energy +4, Mood +1, Guts +5, Wit +5, Meisho Doto bond +5"
+        ],
+        "I... Will Change": [
+            "Energy +10, Mood +1, Meisho Doto bond +5",
+            "Guts +15, Meisho Doto bond +5"
+        ],
+        "Please... Buy Some Carrots": [
+            "Energy +10, Wit +5, Meisho Doto bond +5",
+            "Pace Chaser Corners ○ hint +1, Meisho Doto bond +5"
+        ]
+    },
+    "20018": {
+        "name": "Mejiro Dober",
+        "rarity": "SR",
+        "image_file": "Mejiro_Dober_20018.png",
+        "Give It a Try": [
+            "Energy +15, Mejiro Dober bond +5",
+            "Mood +1, Skill points +15, Mejiro Dober bond +5"
+        ],
+        "Hope She'll Like It...": [
+            "Skill points +45, Mejiro Dober bond +5",
+            "Unyielding Spirit hint +1, Mejiro Dober bond +5"
+        ]
+    },
+    "20019": {
+        "name": "Nice Nature",
+        "rarity": "SR",
+        "image_file": "Nice_Nature_20019.png",
+        "Not like Meow": [
+            "Energy +20, Nice Nature bond +5",
+            "Energy +10, Wit +5, Nice Nature bond +5"
+        ],
+        "(Delicious) Burden": [
+            "Ramp Up hint +1, Nice Nature bond +5",
+            "Mood +1, Maximum Energy +4, Nice Nature bond +5"
+        ]
+    },
+    "20020": {
+        "name": "King Halo",
+        "rarity": "SR",
+        "image_file": "King_Halo_20020.png",
+        "You May Socialize With Me!": [
+            "Energy -20, Speed +10, Power +10, Wit +5, King Halo bond +5",
+            "Mood -1, Guts +25, King Halo bond +5"
+        ],
+        "You May Advise Me!": [
+            "Guts +10, Wit +5, King Halo bond +5",
+            "Homestretch Haste hint +1, King Halo bond +5"
+        ]
+    },
+    "20021": {
+        "name": "Aoi Kiryuin",
+        "rarity": "SR",
+        "image_file": "Aoi_Kiryuin_20021.png",
+        "(❯❯) How I Play at the Park": [
+            "Energy +35, Wit +6, Aoi Kiryuin bond +5, (random) Mood +1",
+            "Randomly either: Skill points +18, Aoi Kiryuin bond +5 or Speed +6, Skill points +56, Mood +1, Aoi Kiryuin bond +5"
+        ]
+    },
+    "10072": {
+        "name": "Narita Brian",
+        "rarity": "R",
+        "image_file": "Narita_Brian_10072.png",
+        "Student Council Member!": [
+            "Mood +1, Speed +5, Narita Brian bond +5",
+            "Maximum Energy +4, Narita Brian bond +5"
+        ],
+        "Lone Wolf": [
+            "Speed +3, Stamina +3, Power +3, Narita Brian bond +5",
+            "Lone Wolf hint +1, Narita Brian bond +5"
+        ]
+    },
+    "10069": {
+        "name": "Mejiro Ardan",
+        "rarity": "R",
+        "image_file": "Mejiro_Ardan_10069.png",
+        "The Glass Girl Wants to Study": [
+            "Speed +10, Mejiro Ardan bond +5",
+            "Energy +10, Wit +5, Mejiro Ardan bond +5"
+        ],
+        "The Glass Girl Wants to Play": [
+            "Speed +10, Wit +10, Mejiro Ardan bond +5",
+            "Hesitant Pace Chasers hint +1, Mejiro Ardan bond +5"
+        ]
+    },
+    "10065": {
+        "name": "Bamboo Memory",
+        "rarity": "R",
+        "image_file": "Bamboo_Memory_10065.png",
+        "Overthrow the Rival!": [
+            "Guts +10, Bamboo Memory bond +5",
+            "Maximum Energy +4, Energy -5, Bamboo Memory bond +5"
+        ],
+        "Tons of Trouble!": [
+            "Stamina +5, Guts +5, Bamboo Memory bond +5",
+            "Energy -10, Standard Distance ○ hint +5, Bamboo Memory bond +5"
+        ]
+    },
+    "10066": {
+        "name": "Shinko Windy",
+        "rarity": "R",
+        "image_file": "Shinko_Windy_10066.png",
+        "Chomp Extermination!": [
+            "Speed +3, Mood +1, Shinko Windy bond +5",
+            "Energy +10, Skill points +5, Shinko Windy bond +5"
+        ],
+        "Chomp Attack!": [
+            "Skill points +15, Shinko Windy bond +5",
+            "Speed +3, Unyielding Spirit hint +1, Shinko Windy bond +5"
+        ]
+    },
+    "10063": {
+        "name": "Kawakami Princess",
+        "rarity": "R",
+        "image_file": "Kawakami_Princess_10063.png",
+        "Princess Punch!": [
+            "Guts +10, Kawakami Princess bond +5",
+            "Mood +1, Kawakami Princess bond +5"
+        ],
+        "Princess Escape!": [
+            "Energy +10, Kawakami Princess bond +5",
+            "Steadfast hint +1, Kawakami Princess bond +5"
+        ]
+    },
+    "10064": {
+        "name": "Hishi Akebono",
+        "rarity": "R",
+        "image_file": "Hishi_Akebono_10064.png",
+        "Eat Up ♪": [
+            "Energy +10, Hishi Akebono bond +5",
+            "Energy -5, Power +15, Hishi Akebono bond +5"
+        ],
+        "Leave It to Me ♪": [
+            "Stamina +10, Hishi Akebono bond +5",
+            "Energy -15, Sprinting Gear hint +2, Hishi Akebono bond +5"
+        ]
+    },
+    "10061": {
+        "name": "Seeking the Pearl",
+        "rarity": "R",
+        "image_file": "Seeking_the_Pearl_10061.png",
+        "Full-Power Passion!": [
+            "Energy +10, Mood +1, Seeking the Pearl bond +5",
+            "Power +5, Guts +5, Seeking the Pearl bond +5"
+        ],
+        "Full-Power Thinking!": [
+            "Wit +20, Seeking the Pearl bond +5",
+            "Energy -10, Uma Stan hint +3, Seeking the Pearl bond +5"
+        ]
+    },
+    "10062": {
+        "name": "Sakura Chiyono O",
+        "rarity": "R",
+        "image_file": "Sakura_Chiyono_O_10062.png",
+        "Today's Words of Wisdom!": [
+            "Energy -10, Power +20, Sakura Chiyono O bond +5",
+            "Energy +5, Skill points +10, Sakura Chiyono O bond +5"
+        ],
+        "Until I Bloom...": [
+            "Energy +5, Stamina +5, Sakura Chiyono O bond +5",
+            "Spring Runner ○ hint +1, Sakura Chiyono O bond +5"
+        ]
+    },
+    "10058": {
+        "name": "Yaeno Muteki",
+        "rarity": "R",
+        "image_file": "Yaeno_Muteki_10058.png",
+        "Firm and Plain, Yet Close to Virtue": [
+            "Speed +10",
+            "Mood +1, Power +5"
+        ],
+        "The Will to Protect!": [
+            "Stamina +10, Power +10",
+            "Medium Corners ○ hint +1"
+        ]
+    },
+    "10059": {
+        "name": "Zenno Rob Roy",
+        "rarity": "R",
+        "image_file": "Zenno_Rob_Roy_10059.png",
+        "Book-lover Quirks": [
+            "Speed +5, Wit +5, Zenno Rob Roy bond +5",
+            "Energy +10, Power +5, Zenno Rob Roy bond +5"
+        ],
+        "A Tale Entrusted": [
+            "Stamina +10, Wit +10, Zenno Rob Roy bond +5",
+            "Medium Straightaways ○ hint +1, Zenno Rob Roy bond +5"
+        ]
+    },
+    "10055": {
+        "name": "Kitasan Black",
+        "rarity": "R",
+        "image_file": "Kitasan_Black_10055.png",
+        "Ah, Friendship": [
+            "Mood +1, Power +5, Kitasan Black bond +5",
+            "Energy +10, Kitasan Black bond +5"
+        ],
+        "Ah, Home Sweet Home": [
+            "Speed +5, Power +10, Kitasan Black bond +5",
+            "Get Practice Perfect ○ status, Kitasan Black bond +5"
+        ]
+    },
+    "10056": {
+        "name": "Satono Diamond",
+        "rarity": "R",
+        "image_file": "Satono_Diamond_10056.png",
+        "I Love New Things!": [
+            "Guts +10, Satono Diamond bond +5",
+            "Energy -10, Stamina +20, Satono Diamond bond +5"
+        ],
+        "I Love Complicated Things!": [
+            "Stamina +5, Guts +10, Satono Diamond bond +5",
+            "Hesitant Front Runners hint +1, Satono Diamond bond +5"
+        ]
+    },
+    "10057": {
+        "name": "Matikanetannhauser",
+        "rarity": "R",
+        "image_file": "Matikanetannhauser_10057.png",
+        "Just Your Typical Hard Work!": [
+            "Speed +10, Matikanetannhauser bond +5",
+            "Power +10, Matikanetannhauser bond +5"
+        ],
+        "Just A Typical Accident?!": [
+            "Stamina +5, Guts +10, Matikanetannhauser bond +5",
+            "Subdued Front Runners hint +1, Matikanetannhauser bond +5"
+        ]
+    },
+    "10053": {
+        "name": "Ikuno Dictus",
+        "rarity": "R",
+        "image_file": "Ikuno_Dictus_10053.png",
+        "Ikuno-Style Flawless Method": [
+            "Wit +10, Ikuno Dictus bond +5",
+            "Skill points +30, Ikuno Dictus bond +5"
+        ],
+        "Ikuno-Style Management": [
+            "Stamina +20, Ikuno Dictus bond +5",
+            "Trick (Rear) hint +1, Ikuno Dictus bond +5"
+        ]
+    },
+    "10054": {
+        "name": "Mejiro Palmer",
+        "rarity": "R",
+        "image_file": "Mejiro_Palmer_10054.png",
+        "An Inescapable Choice?": [
+            "Energy -15, Guts +20, Mejiro Palmer bond +5",
+            "Power +5, Skill points +15, Mejiro Palmer bond +5"
+        ],
+        "Optimistic Escapism": [
+            "Guts +15, Mejiro Palmer bond +5",
+            "Wet Conditions ○ hint +1, Mejiro Palmer bond +5"
+        ]
+    },
+    "10051": {
+        "name": "Twin Turbo",
+        "rarity": "R",
+        "image_file": "Twin_Turbo_10051.png",
+        "Just Start Running!": [
+            "Mood -1, Speed +20",
+            "Energy -10, Power +20"
+        ],
+        "I'm All Fired Up!": [
+            "Energy +15, Twin Turbo bond +5",
+            "Early Lead hint +1, Twin Turbo bond +5"
+        ]
+    },
+    "10052": {
+        "name": "Daitaku Helios",
+        "rarity": "R",
+        "image_file": "Daitaku_Helios_10052.png",
+        "Encounter With the Sun ☆": [
+            "Power +10, Daitaku Helios bond +5",
+            "Get Hot Topic status, Daitaku Helios bond +5"
+        ],
+        "Smiles Forever": [
+            "Speed +5, Power +10, Daitaku Helios bond +5",
+            "Long Shot ○ hint +1, Daitaku Helios bond +5"
+        ]
+    },
+    "10050": {
+        "name": "Sweep Tosho",
+        "rarity": "R",
+        "image_file": "Sweep_Tosho_10050.png",
+        "Miracle ☆ Escape!": [
+            "Energy +10, Speed +5, Sweep Tosho bond +5",
+            "Energy -10, Speed +20, Sweep Tosho bond +5"
+        ],
+        "Wonderful ☆ Mistake!": [
+            "Randomly either: Energy -15, Skill points +40 or Energy -20, Skill points +40, Sweep Tosho bond +5",
+            "Get Charming ○ status, Sweep Tosho bond +5"
+        ]
+    },
+    "10001": {
+        "name": "Special Week",
+        "rarity": "R",
+        "image_file": "Special_Week_10001.png",
+        "Watch Where You're Going!": [
+            "Extra Tank hint +1, Special Week bond +5",
+            "Guts +15, Special Week bond +5"
+        ],
+        "So Many Options!": [
+            "Energy +10, Mood +1, Special Week bond +5",
+            "Energy -10, Stamina +15, Skill points +15, Special Week bond +5"
+        ]
+    },
+    "10002": {
+        "name": "Silence Suzuka",
+        "rarity": "R",
+        "image_file": "Silence_Suzuka_10002.png",
+        "On and On": [
+            "Speed +10, Stamina +5, Silence Suzuka bond +5",
+            "Speed +15, Silence Suzuka bond +5"
+        ],
+        "What Should I Do?": [
+            "Speed +5, Stamina +5, Wit +5, Silence Suzuka bond +5",
+            "Left-Handed ○ hint +1, Silence Suzuka bond +5"
+        ]
+    },
+    "10003": {
+        "name": "Tokai Teio",
+        "rarity": "R",
+        "image_file": "Tokai_Teio_10003.png",
+        "My Way, Or...": [
+            "Mood +1, Skill points +15, Tokai Teio bond +5",
+            "Guts +15, Tokai Teio bond +5"
+        ],
+        "My Weapon": [
+            "Mood +1, Guts +10, Tokai Teio bond +5",
+            "Pace Chaser Straightaways ○ hint +1, Tokai Teio bond +5"
+        ]
+    },
+    "10004": {
+        "name": "Maruzensky",
+        "rarity": "R",
+        "image_file": "Maruzensky_10004.png",
+        "For an Adorable Younger Student": [
+            "Early Lead hint +1",
+            "Energy +5, Speed +10"
+        ],
+        "Drive Destination": [
+            "Mood +1, Speed +5",
+            "Mood +1, Wit +5"
+        ]
+    },
+    "10005": {
+        "name": "Oguri Cap",
+        "rarity": "R",
+        "image_file": "Oguri_Cap_10005.png",
+        "How Should I Respond?": [
+            "Energy +5, Power +5",
+            "Energy -10, Guts +15"
+        ],
+        "Conquering the Crowds": [
+            "Power +5, Skill points +15",
+            "Nakayama Racecourse ○ hint +1"
+        ]
+    },
+    "10006": {
+        "name": "Gold Ship",
+        "rarity": "R",
+        "image_file": "Gold_Ship_10006.png",
+        "Adventurer Gold Ship": [
+            "Stamina +15, Gold Ship bond +5",
+            "Guts +10, Skill points +15, Gold Ship bond +5"
+        ],
+        "Revive the Brand! Golshi's Yakisoba": [
+            "Mood +1, Stamina +5",
+            "Hanshin Racecourse ○ hint +1, Gold Ship bond +5"
+        ]
+    },
+    "10007": {
+        "name": "Vodka",
+        "rarity": "R",
+        "image_file": "Vodka_10007.png",
+        "The Coolest Line": [
+            "Power +10, Vodka bond +5",
+            "Power +5, Skill points +15, Vodka bond +5"
+        ],
+        "Enemies on Main Street": [
+            "Nimble Navigator hint +1, Vodka bond +5",
+            "Power +5, Skill points +15, Vodka bond +5"
+        ]
+    },
+    "10008": {
+        "name": "Taiki Shuttle",
+        "rarity": "R",
+        "image_file": "Taiki_Shuttle_10008.png",
+        "Yes! Let's Hug ☆": [
+            "Speed +10",
+            "Speed +5, Power +5"
+        ],
+        "Yeehaw! Party Tonight ☆": [
+            "Energy -10, Speed +5, Power +10",
+            "Prepared to Pass hint +1"
+        ]
+    },
+    "10009": {
+        "name": "Grass Wonder",
+        "rarity": "R",
+        "image_file": "Grass_Wonder_10009.png",
+        "Library Vexation": [
+            "Wit +10, Grass Wonder bond +5",
+            "Guts +5, Wit +5, Grass Wonder bond +5"
+        ],
+        "A Friendly Daytime Discussion": [
+            "Frenzied Pace Chasers hint +1, Grass Wonder bond +5",
+            "Target in Sight ○ hint +1, Grass Wonder bond +5"
+        ]
+    },
+    "10010": {
+        "name": "Mejiro McQueen",
+        "rarity": "R",
+        "image_file": "Mejiro_McQueen_10010.png",
+        "To Maintain My Weight": [
+            "Energy -10, Stamina +15, Mejiro McQueen bond +5",
+            "Maximum Energy +4, Stamina +5, Mejiro McQueen bond +5"
+        ],
+        "To Reach the Greatest Heights": [
+            "Stamina +5, Guts +5, Mejiro McQueen bond +5",
+            "Early Lead hint +1, Mejiro McQueen bond +5"
+        ]
+    },
+    "10011": {
+        "name": "El Condor Pasa",
+        "rarity": "R",
+        "image_file": "El_Condor_Pasa_10011.png",
+        "Blazing Fire!": [
+            "Stamina +10, El Condor Pasa bond +5",
+            "Energy -10, Power +20, El Condor Pasa bond +5"
+        ],
+        "Secret Notebook!": [
+            "Power +10, El Condor Pasa bond +5",
+            "Sunny Days ○ hint +1, El Condor Pasa bond +5"
+        ]
+    },
+    "10012": {
+        "name": "TM Opera O",
+        "rarity": "R",
+        "image_file": "TM_Opera_O_10012.png",
+        "Etude to Victory": [
+            "Mood -1, Speed +5, Skill points +30",
+            "Power +5, Skill points +15"
+        ],
+        "Beyond Our Limited Time": [
+            "Energy +10, Skill points +15",
+            "Non-Standard Distance ○ hint +1"
+        ]
+    },
+    "10013": {
+        "name": "Symboli Rudolf",
+        "rarity": "R",
+        "image_file": "Symboli_Rudolf_10013.png",
+        "The Emperor's Encouragement": [
+            "Speed +10",
+            "Energy -10, Skill points +30"
+        ],
+        "The Student Council President's Thoughtfulness": [
+            "Rainy Days ○ hint +1",
+            "Stamina +15"
+        ]
+    },
+    "10014": {
+        "name": "Seiun Sky",
+        "rarity": "R",
+        "image_file": "Seiun_Sky_10014.png",
+        "Recruiting Cat Catchers": [
+            "Energy +10, Wit +5, Seiun Sky bond +5",
+            "Energy -10, Speed +15, Stamina +5, Seiun Sky bond +5"
+        ],
+        "Recruiting Advisors": [
+            "Wit +15, Seiun Sky bond +5",
+            "Keeping the Lead hint +1, Seiun Sky bond +5"
+        ]
+    },
+    "10015": {
+        "name": "Rice Shower",
+        "rarity": "R",
+        "image_file": "Rice_Shower_10015.png",
+        "A Page of Flower Shop Assistance": [
+            "Mood +2, Rice Shower bond +5",
+            "Stamina +10, Rice Shower bond +5"
+        ],
+        "A Page About Cloudy Weather": [
+            "Speed +5, Guts +5, Rice Shower bond +5",
+            "Firm Conditions ○ hint +1, Rice Shower bond +5"
+        ]
+    },
+    "10016": {
+        "name": "Winning Ticket",
+        "rarity": "R",
+        "image_file": "Winning_Ticket_10016.png",
+        "Full-Power Muscles!": [
+            "Stamina +5, Skill points +15, Winning Ticket bond +5",
+            "Mood +1, Skill points +15, Winning Ticket bond +5"
+        ],
+        "Full-Power Racing!": [
+            "Late Surger Corners ○ hint +1, Winning Ticket bond +5",
+            "Skill points +30, Winning Ticket bond +5"
+        ]
+    },
+    "10017": {
+        "name": "Gold City",
+        "rarity": "R",
+        "image_file": "Gold_City_10017.png",
+        "08:36 / Crap, I Overslept": [
+            "Mood -1, Skill points +45, Gold City bond +5",
+            "Energy +10, Wit +5, Gold City bond +5"
+        ],
+        "13:12 / Lunch Break, Gotta Get Myself Together": [
+            "Skill points +30, Gold City bond +5",
+            "A Small Breather hint +1, Gold City bond +5"
+        ]
+    },
+    "10018": {
+        "name": "Sakura Bakushin O",
+        "rarity": "R",
+        "image_file": "Sakura_Bakushin_O_10018.png",
+        "Genius Efficiency!": [
+            "Speed +15, Sakura Bakushin O bond +5",
+            "Speed +5, Power +10, Sakura Bakushin O bond +5"
+        ],
+        "Enough to Break into a Dash!": [
+            "Gap Closer hint +1, Sakura Bakushin O bond +5",
+            "Energy -10, Speed +10, Power +5, Sakura Bakushin O bond +5"
+        ]
+    },
+    "10019": {
+        "name": "Super Creek",
+        "rarity": "R",
+        "image_file": "Super_Creek_10019.png",
+        "Leave it to Me to Help Out! ♪": [
+            "Energy +15, Super Creek bond +5",
+            "Stamina +10, Super Creek bond +5"
+        ],
+        "Leave it to Me to Be Considerate! ♪": [
+            "Deep Breaths hint +1, Super Creek bond +5",
+            "Energy +10, Stamina +5, Super Creek bond +5"
+        ]
+    },
+    "10020": {
+        "name": "Haru Urara",
+        "rarity": "R",
+        "image_file": "Haru_Urara_10020.png",
+        "Urara's ☆ Study Review": [
+            "Energy +10, Wit +5, Haru Urara bond +5",
+            "Mood +1, Wit +5, Haru Urara bond +5"
+        ],
+        "Urara's ☆ Long Shot Dash!": [
+            "Long Shot ○ hint +1, Haru Urara bond +5",
+            "Mood +1, Energy +10, Haru Urara bond +5"
+        ]
+    },
+    "10021": {
+        "name": "Tazuna Hayakawa",
+        "rarity": "R",
+        "image_file": "Tazuna_Hayakawa_10021.png",
+        "(❯❯❯) Memories of Cinema": [
+            "Energy +32, Stamina +6, Mood +1, Tazuna Hayakawa bond +5",
+            "Stamina +12, Guts +12, Mood +1, Tazuna Hayakawa bond +5"
+        ],
+        "My Chosen Way of Life": [
+            "Energy +13, Mood +1, Tazuna Hayakawa bond +5",
+            "Mood +1, Wit +6, Tazuna Hayakawa bond +5"
+        ],
+        "Enthusiastic Pair": [
+            "Energy +13, Wit +6, Mood +1, Tazuna Hayakawa bond +5, Can start dating",
+            "Mood -1, Tazuna Hayakawa bond -5, Watchful Eye hint +1, Event chain ended"
+        ]
+    },
+    "10022": {
+        "name": "Aoi Kiryuin",
+        "rarity": "R",
+        "image_file": "Aoi_Kiryuin_10022.png",
+        "(❯❯) How I Play at the Park": [
+            "Energy +32, Wit +6, Aoi Kiryuin bond +5, (random) Mood +1",
+            "Randomly either: Skill points +18, Aoi Kiryuin bond +5 or Speed +6, Skill points +54, Mood +1, Aoi Kiryuin bond +5"
+        ]
+    },
+    "10023": {
+        "name": "Daiwa Scarlet",
+        "rarity": "R",
+        "image_file": "Daiwa_Scarlet_10023.png",
+        "I'm Going to Win Tomorrow!": [
+            "Wit +10, Daiwa Scarlet bond +5",
+            "Mood +1, Skill points +15, Daiwa Scarlet bond +5"
+        ],
+        "This Is Nothing!": [
+            "Stamina to Spare hint +1, Daiwa Scarlet bond +5",
+            "Energy +20, Mood +1, Daiwa Scarlet bond +5"
+        ]
+    },
+    "10024": {
+        "name": "Hishi Amazon",
+        "rarity": "R",
+        "image_file": "Hishi_Amazon_10024.png",
+        "Hishiama's Struggles: Problem Children": [
+            "Energy +10, Wit +5, Hishi Amazon bond +5",
+            "Energy -10, Speed +10, Guts +5, Hishi Amazon bond +5"
+        ],
+        "Hishiama's Struggles: Final Stretch": [
+            "Hesitant End Closers hint +1, Hishi Amazon bond +5",
+            "Power +5, Skill points +15, Hishi Amazon bond +5"
+        ]
+    },
+    "10025": {
+        "name": "Air Groove",
+        "rarity": "R",
+        "image_file": "Air_Groove_10025.png",
+        "Strict but Gracious": [
+            "Go with the Flow hint +1, Air Groove bond +5",
+            "Energy +10, Wit +10"
+        ],
+        "Agile but Strong": [
+            "Power +15, Air Groove bond +5",
+            "Speed +10, Stamina +5, Air Groove bond +5"
+        ]
+    },
+    "10026": {
+        "name": "Agnes Digital",
+        "rarity": "R",
+        "image_file": "Agnes_Digital_10026.png",
+        "Umamusume Deficiency!": [
+            "Energy +5, Speed +5, Agnes Digital bond +5",
+            "Speed +5, Power +5, Agnes Digital bond +5"
+        ],
+        "Heavy Romance": [
+            "Rainy Days ○ hint +1, Agnes Digital bond +5",
+            "Wet Conditions ○ hint +1, Agnes Digital bond +5"
+        ]
+    },
+    "10027": {
+        "name": "Tamamo Cross",
+        "rarity": "R",
+        "image_file": "Tamamo_Cross_10027.png",
+        "Tamamo's School Tour": [
+            "Wit +10, Tamamo Cross bond +5",
+            "Stamina +5, Guts +5, Tamamo Cross bond +5"
+        ],
+        "A Battle I Can't Lose!": [
+            "Calm in a Crowd hint +1, Tamamo Cross bond +5",
+            "Stamina +5, Wit +5, Tamamo Cross bond +5"
+        ]
+    },
+    "10028": {
+        "name": "Fine Motion",
+        "rarity": "R",
+        "image_file": "Fine_Motion_10028.png",
+        "Wonderful New Shoes": [
+            "Speed +5, Skill points +10, Fine Motion bond +5",
+            "Energy -10, Stamina +5, Skill points +20, Fine Motion bond +5"
+        ],
+        "Reminiscent Clover": [
+            "Corner Adept ○ hint +1, Fine Motion bond +5",
+            "Guts +15, Fine Motion bond +5"
+        ]
+    },
+    "10029": {
+        "name": "Biwa Hayahide",
+        "rarity": "R",
+        "image_file": "Biwa_Hayahide_10029.png",
+        "Last-Minute Modal Theory": [
+            "Power +15, Biwa Hayahide bond +5",
+            "Speed +10, Skill points +15, Biwa Hayahide bond +5"
+        ],
+        "Step-Out-of-Your-Comfort-Zone Theory": [
+            "Energy -10, Inside Scoop hint +1, Biwa Hayahide bond +5",
+            "Energy +10, Stamina +10, Biwa Hayahide bond +5"
+        ]
+    },
+    "10030": {
+        "name": "Mayano Top Gun",
+        "rarity": "R",
+        "image_file": "Mayano_Top_Gun_10030.png",
+        "Snack Advice for Mayano!": [
+            "Stamina +5, Guts +5, Mayano Top Gun bond +5",
+            "Stamina +10, Mayano Top Gun bond +5"
+        ],
+        "Fashion Advice for Mayano!": [
+            "Straightaway Adept hint +1, Mayano Top Gun bond +5",
+            "Stamina +10, Mayano Top Gun bond +5"
+        ]
+    },
+    "10031": {
+        "name": "Manhattan Cafe",
+        "rarity": "R",
+        "image_file": "Manhattan_Cafe_10031.png",
+        "Solo Nighttime Run": [
+            "Stamina +10, Manhattan Cafe bond +5",
+            "Energy +10, Stamina +5, Manhattan Cafe bond +5"
+        ],
+        "A Taste of Silence": [
+            "Stamina +5, Skill points +15, Manhattan Cafe bond +5",
+            "Non-Standard Distance ○ hint +1, Manhattan Cafe bond +5"
+        ]
+    },
+    "10032": {
+        "name": "Mihono Bourbon",
+        "rarity": "R",
+        "image_file": "Mihono_Bourbon_10032.png",
+        "Do No Harm": [
+            "Energy -10, Stamina +5, Power +15, Mihono Bourbon bond +5",
+            "Energy +10, Wit +5, Mihono Bourbon bond +5"
+        ],
+        "Orders Must Be Followed": [
+            "Focus hint +1, Mihono Bourbon bond +5",
+            "Speed +10, Skill points +15, Mihono Bourbon bond +5"
+        ]
+    },
+    "10033": {
+        "name": "Mejiro Ryan",
+        "rarity": "R",
+        "image_file": "Mejiro_Ryan_10033.png",
+        "My Muscles and Me, Onward to Tomorrow!": [
+            "Energy -10, Power +15, Mejiro Ryan bond +5",
+            "Maximum Energy +4, Power +5, Mejiro Ryan bond +5"
+        ],
+        "It's Not Like I Like Romance!": [
+            "Pace Strategy hint +1, Mejiro Ryan bond +5",
+            "Energy +30, Mejiro Ryan bond +5"
+        ]
+    },
+    "10034": {
+        "name": "Yukino Bijin",
+        "rarity": "R",
+        "image_file": "Yukino_Bijin_10034.png",
+        "For a Spiffy Concert": [
+            "Guts +10, Yukino Bijin bond +5",
+            "Energy -10, Guts +15, Yukino Bijin bond +5"
+        ],
+        "Aiming for the City Spots": [
+            "Energy -10, Mood +1, Guts +10, Yukino Bijin bond +5",
+            "Corner Acceleration ○ hint +1, Yukino Bijin bond +5"
+        ]
+    },
+    "10035": {
+        "name": "Ines Fujin",
+        "rarity": "R",
+        "image_file": "Ines_Fujin_10035.png",
+        "It's a Game of Tag!": [
+            "Energy +10, Speed +5, Ines Fujin bond +5",
+            "Fast-Paced hint +1, Ines Fujin bond +5"
+        ],
+        "Ten Minutes Left!": [
+            "Guts +15, Ines Fujin bond +5",
+            "Wit +15, Ines Fujin bond +5"
+        ]
+    },
+    "10036": {
+        "name": "Agnes Tachyon",
+        "rarity": "R",
+        "image_file": "Agnes_Tachyon_10036.png",
+        "The Correlation between Sleep and Efficiency": [
+            "Power +5, Wit +5, Agnes Tachyon bond +5",
+            "Wit +10, Agnes Tachyon bond +5"
+        ],
+        "Happenstance Introduced Through Intervention": [
+            "Late Surger Savvy ○ hint +1, Agnes Tachyon bond +5",
+            "Wit +10, Agnes Tachyon bond +5"
+        ]
+    },
+    "10037": {
+        "name": "Air Shakur",
+        "rarity": "R",
+        "image_file": "Air_Shakur_10037.png",
+        "//Verification Required": [
+            "Energy +10, Guts +5, Air Shakur bond +5",
+            "Energy -10, Stamina +5, Guts +10, Air Shakur bond +5"
+        ],
+        "//Absolute Desire": [
+            "Pace Strategy hint +1, Air Shakur bond +5",
+            "Maximum Energy +4, Guts +5, Air Shakur bond +5"
+        ]
+    },
+    "10038": {
+        "name": "Eishin Flash",
+        "rarity": "R",
+        "image_file": "Eishin_Flash_10038.png",
+        "Unforeseen Lunch": [
+            "Energy +15, Eishin Flash bond +5",
+            "Speed +5, Guts +5, Eishin Flash bond +5"
+        ],
+        "Responding to the Unforeseen": [
+            "Guts +10, Eishin Flash bond +5",
+            "Target in Sight ○ hint +1, Eishin Flash bond +5"
+        ]
+    },
+    "10039": {
+        "name": "Smart Falcon",
+        "rarity": "R",
+        "image_file": "Smart_Falcon_10039.png",
+        "Chants Are the Life of a Concert ☆": [
+            "Stamina +5, Guts +10, Smart Falcon bond +5",
+            "Wit +15, Smart Falcon bond +5"
+        ],
+        "If I'm Cute, Come to My Show! ☆": [
+            "Energy -10, Power +10, Final Push hint +1, Smart Falcon bond +5",
+            "Energy +10, Wit +5, Smart Falcon bond +5"
+        ]
+    },
+    "10040": {
+        "name": "Narita Taishin",
+        "rarity": "R",
+        "image_file": "Narita_Taishin_10040.png",
+        "Just Leave Me Alone": [
+            "Stamina +5, Skill points +15, Narita Taishin bond +5",
+            "Power +5, Skill points +15, Narita Taishin bond +5"
+        ],
+        "Just Don't Bother Me": [
+            "Pressure hint +1, Narita Taishin bond +5",
+            "Skill points +30, Narita Taishin bond +5"
+        ]
+    },
+    "10041": {
+        "name": "Nishino Flower",
+        "rarity": "R",
+        "image_file": "Nishino_Flower_10041.png",
+        "Warmth, Love, and Lunch": [
+            "Get Charming ○ status, Nishino Flower bond +5",
+            "Energy +20, Nishino Flower bond +5"
+        ],
+        "Let's Bloom Beautifully ♪": [
+            "Wit +15, Nishino Flower bond +5",
+            "Speed +10, Power +5, Nishino Flower bond +5"
+        ]
+    },
+    "10042": {
+        "name": "Biko Pegasus",
+        "rarity": "R",
+        "image_file": "Biko_Pegasus_10042.png",
+        "A Hero's Woes": [
+            "Energy +15, Biko Pegasus bond +5",
+            "Energy +5, Power +5, Biko Pegasus bond +5"
+        ],
+        "Preparing My Special Move!": [
+            "Sprint Straightaways ○ hint +1, Biko Pegasus bond +5",
+            "Energy +30, Biko Pegasus bond +5"
+        ]
+    },
+    "10043": {
+        "name": "Marvelous Sunday",
+        "rarity": "R",
+        "image_file": "Marvelous_Sunday_10043.png",
+        "Marvelous, No Question ☆": [
+            "Energy +10, Speed +5, Marvelous Sunday bond +5",
+            "Mood +1, Speed +5, Marvelous Sunday bond +5"
+        ],
+        "How To Be More Marvelous ☆": [
+            "Energy +10, Mood +1, Marvelous Sunday bond +5",
+            "Hanshin Racecourse ○ hint +1, Marvelous Sunday bond +5"
+        ]
+    },
+    "10044": {
+        "name": "Matikanefukukitaru",
+        "rarity": "R",
+        "image_file": "Matikanefukukitaru_10044.png",
+        "Maximum Spirituality": [
+            "Wit +5, Skill points +15, Matikanefukukitaru bond +5",
+            "Energy -10, Speed +5, Stamina +5, Power +5, Matikanefukukitaru bond +5"
+        ],
+        "When Piety and Kindness Intersect": [
+            "Skill points +30, Matikanefukukitaru bond +5",
+            "Energy +20, Matikanefukukitaru bond +5"
+        ]
+    },
+    "10045": {
+        "name": "Meisho Doto",
+        "rarity": "R",
+        "image_file": "Meisho_Doto_10045.png",
+        "I... Will Change": [
+            "Energy +10, Mood +1, Meisho Doto bond +5",
+            "Guts +15, Meisho Doto bond +5"
+        ],
+        "Please... Buy Some Carrots": [
+            "Energy +10, Wit +5, Meisho Doto bond +5",
+            "Pace Chaser Corners ○ hint +1, Meisho Doto bond +5"
+        ]
+    },
+    "10046": {
+        "name": "Mejiro Dober",
+        "rarity": "R",
+        "image_file": "Mejiro_Dober_10046.png",
+        "Give It a Try": [
+            "Energy +15, Mejiro Dober bond +5",
+            "Mood +1, Skill points +15, Mejiro Dober bond +5"
+        ],
+        "Hope She'll Like It...": [
+            "Skill points +45, Mejiro Dober bond +5",
+            "Unyielding Spirit hint +1, Mejiro Dober bond +5"
+        ]
+    },
+    "10047": {
+        "name": "Nice Nature",
+        "rarity": "R",
+        "image_file": "Nice_Nature_10047.png",
+        "Not like Meow": [
+            "Energy +20, Nice Nature bond +5",
+            "Energy +10, Wit +5, Nice Nature bond +5"
+        ],
+        "(Delicious) Burden": [
+            "Ramp Up hint +1, Nice Nature bond +5",
+            "Mood +1, Maximum Energy +4, Nice Nature bond +5"
+        ]
+    },
+    "10048": {
+        "name": "King Halo",
+        "rarity": "R",
+        "image_file": "King_Halo_10048.png",
+        "You May Socialize With Me!": [
+            "Energy -20, Speed +10, Power +10, Wit +5, King Halo bond +5",
+            "Mood -1, Guts +25, King Halo bond +5"
+        ],
+        "You May Advise Me!": [
+            "Guts +10, Wit +5, King Halo bond +5",
+            "Homestretch Haste hint +1, King Halo bond +5"
+        ]
+    },
+    "10049": {
+        "name": "Fuji Kiseki",
+        "rarity": "R",
+        "image_file": "Fuji_Kiseki_10049.png",
+        "Sleight of Hand": [
+            "Wit +5, Skill points +15, Fuji Kiseki bond +5",
+            "Power +5, Skill points +15, Fuji Kiseki bond +5"
+        ],
+        "Misdirection": [
+            "Prepared to Pass hint +1, Fuji Kiseki bond +5",
+            "Skill points +30, Fuji Kiseki bond +5"
+        ]
+    }
+}
